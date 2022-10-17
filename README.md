@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-braga&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-   <a href="https://dev.java/"><img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"></a>
+   <a href="https://dev.java/"><img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
    <a href="https://spring.io/"><img align="center" alt="spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>
    <a href="https://www.scala-lang.org/"><img align="center" alt="scala" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"></a>
    <a href="https://www.python.org/"><img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
