@@ -1,10 +1,10 @@
-### Renan Braga 👋
 <div align="center">
+  <h1>Bem vindo ao meu github =)</h1>
   <a href="https://github.com/renan-braga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-braga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-braga&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
    <a href="https://dev.java/"><img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"></a>
    <a href="https://spring.io/"><img align="center" alt="spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>
    <a href="https://www.scala-lang.org/"><img align="center" alt="scala" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"></a>
